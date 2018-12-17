@@ -1,0 +1,6 @@
+#for pushing the data into repo first set repo url in your local system.
+git remote set-url origin https://github.com/rakesh1meena/C_Plus_Plus
+
+# now push the data 
+git push origin master
+
